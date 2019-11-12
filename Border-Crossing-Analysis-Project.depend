@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573533051 source:c:\users\msimo\onedrive\desktop\c++ practice files\border-crossing-analysis-project\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
